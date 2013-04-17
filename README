@@ -1,0 +1,5 @@
+#linux-x86 toolchain arm-eabi-4.4.3
+
+#use:
+export PATH=$(pwd)/bin:$PATH
+export CROSS_COMPILE=arm-eabi-
